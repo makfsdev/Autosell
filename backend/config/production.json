@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "autosell-41621",
+    "private_key_id": "b64ef11ae5b6b3dda222497e5dcca2cfb75e4838",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCTNm3lHeYRDWY4\nzlARVU8gaGQv5TIARb4twdE3CyA+y5LQWzMIcYJU/3Ksx0wMuM64X1UUq0M7TZPZ\nfz4RIFpktUTvp1nadiTPs5n/j+0V3syML0ezozjzI6qXq1plY25b2GrJCNpMGG2w\nmwk5SxLK/ppk2XDn6TVwHrRmJH3NWBzUm6ospbDHOGTjGvHQ/RJVUrKNQGP9AJ9d\nCMUD8oBAyvE0cZDmTpzEQGApZv7XIJ2Q2uYuoFN6VBsmaWZXie9tJcG75Tyb3mIS\nRLx1dHDXPSf/I27nIvaxfT8C1QqNrCGqQ9j4cMAxTUik57Hmgd38o05yNpshDKJT\nQJMLPS/pAgMBAAECggEAEZwHrkoSzMRlD3OCeWhShEZogaAxiH3PP4r5O1Pd4hUY\n9UqLgr2NQRyje46FhtoOhFiHBWdtLelcP76sToEnvvc+DUrgATVzttK9n6f4TM7v\nee9n7NGgDNmd3PG26PzpZRwwveaMsmCTsnYBNvTHhTfKgTjPfDZV2ZkarEM+NzNe\nC0jDkYZ1Wnt+KHGiwTkKgdOn+SBO1RKbUXa4AYFjRX/ljHbt8m1rG8ecpNABf48M\npybUNFCEcqjWFOwMpy0IAHvqAcw8MotImrxRvXqpHKp0p0yjIPEyVtioK0ti6UQE\nZvSnzqDAFIWPVvmuNqB+7JCtXCgGLRkPLbN/BpmMvwKBgQDOdBBaebusJQNJTVUm\n+TYX7E8wopMv9YHXQ25JmEOjcXTeCRG7mqxJilaC+GUaI2624Sxy0E46pNS9aidr\n22t+Zdet93StAYezGFjGE6Phpyz8Y9C6yRIdeU2rK+QLYoFgpvL5fqbVZRJ7bLfz\nxb6xMCXgbsBHTV+uQFERbSV1WwKBgQC2isYHs4BEtHd5iTUGjrOjiReQdJHwAzP9\nFKetAAnx7NWsW/dGOLssq5yOM3v7Fb2NVdCpYBfZFdn+HNjspeUomVNA22/0/OzT\ntnE+xM/e3zkgM6ZaIjPQH6VIT1KhAKcAVQiVC5/upGb0tvgsfgj1Fk25F9fCcTJC\nTqPJt4t/CwKBgQCcGdP3pQ3LBp1qgmd9NXe6NPpXisWBwL8xFZJBYTjbT0EPVYor\n8LKOVGQ/WTOQxPPEoZNrKKfN3a3hnm86NUkc5EJlDrMQ0RRazXDqLBWA3Fe+anZ7\nlOb2lC6u21vtY8jxXKphDWt19Js56aVZU85wyTgKb5NBFnbfGVByvbVR+wKBgQCs\nrpjpfiBQXlxLh8W2v1Ym1TCKggvwfkc3GcwJN2kxCDeWRqWkM1S1zF5ck02s2AMp\n6c1r/TByN16yKj33mHQxNOJyD2RY4M909DkrBOoUTxzuXo325DYZo2YrAocLMd/J\ny6dDv+x6x+FxjIk3Jb95grDh8TE1ivndiiEdWNnIwwKBgQCWo0KdoGVMinEnuYXw\n2RZ1Wl2pFAB49kWo+SiWj8EFFSln99nUjz5Njt+q9fO0HziRlDn1ohG4Dd7/Z6iM\ne4goU4qdEXv6FpEyAwAIH/v5DmO85tOiRKxkVqUYJccZjaOQPwQj1UnJbamPjBhj\nFjgz7Qv5Y/2CResJpPgvz4kEPA==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-7afuk@autosell-41621.iam.gserviceaccount.com",
+    "client_id": "109325419165642737028",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7afuk%40autosell-41621.iam.gserviceaccount.com"
+  }
+  
